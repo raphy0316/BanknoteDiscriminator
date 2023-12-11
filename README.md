@@ -1,7 +1,4 @@
 # BillDiscriminator
-A bill discriminator for the blind
-
-
 Project Name: BillDiscriminator - Empowering Independence for the Visually Impaired
 
 Intent of the Project:
