@@ -1,4 +1,5 @@
 # BillDiscriminator
+### An app that recognizes images using OpenCV, an image recognition library, and identifies bills with mobile phones
 ![image](https://github.com/raphy0316/BillDiscriminator/assets/26518769/8e0be9b7-c41e-4149-8252-b7f5bd6627fc)
 ## Intent of the Project:<br>
 In response to the rising incidents of fraud involving worn-out banknotes that are challenging for visually impaired individuals to recognize, there is a crucial need to develop a solution that enables them to independently identify currency. Thus, the BillDiscriminator project has been initiated.<br>
